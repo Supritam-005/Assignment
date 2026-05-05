@@ -1,7 +1,7 @@
 # 🚀 Course Assignment – Problem Solving
 
 Welcome to this repository!
-This project showcases efficient solutions to two classic algorithmic problems using **Python** 🐍
+This Repo showcases efficient solutions to two classic algorithmic problems using **Python** 🐍
 
 ---
 
