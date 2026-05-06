@@ -39,8 +39,4 @@ python problem2.py
 **Supritam Mukhopadhyay**
 🔗 https://github.com/Supritam-005
 
----
 
-
-
-Give it a star and share your thoughts!
